@@ -206,11 +206,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/companybrain-ai/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/companybrain-ai/discussions)
-- **Email**: your-email@example.com
+- **Email**: a.arzuman313@gmail.com
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/yourusername">Arzuman Abbasov</a></p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
